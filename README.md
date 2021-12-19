@@ -1,4 +1,4 @@
 # hello-world
 This is a starting github repository.
 
-I love :coffee:
+I love :coffee: and :tea:
